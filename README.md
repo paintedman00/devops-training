@@ -90,3 +90,15 @@ DevOps aims to automate the interaction and communication between development an
 
 **Need for DevOps Engineers:**
 Collaboration between development and operations teams requires DevOps Engineers who possess both broad and deep skills in both areas.
+
+### Important: Automation for Infrastructure
+
+To create an infrastructure capable of running the development team's applications, we use automation tools like **Terraform**.
+
+---
+
+### Concept: DevOps Continuum
+
+**Question: What is DevOps Continuum?**
+
+DevOps Continuum is a diagram that illustrates the performance and processes of DevOps.
